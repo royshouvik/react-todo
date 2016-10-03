@@ -1,0 +1,17 @@
+[{
+  "id": 1,
+  "text": "Double-click to edit a todo",
+  "completed": false
+}, {
+  "id": 2,
+  "text": "Completed Todos appear striked out",
+  "completed": true
+}, {
+  "id": 3,
+  "text": "If you update a completed todo, its status would change to incomplete",
+  "completed": true
+}, {
+  "id": 4,
+  "text": "Pellentesque ultrices mattis odio.",
+  "completed": true
+}]
